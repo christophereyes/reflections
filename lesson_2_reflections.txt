@@ -15,3 +15,11 @@ change?
 By combining the 'git status' command we can use the staging area as a guide
 or reference to know what changes have been made as well as what are the 
 differences between current working directory files vs what is being staged.
+
+What are some situations when branches would be helpful in keeping your history
+organized?
+Branches are useful during experimental changes to a program.
+How would branches help?
+Creating branches helps keep seperate repositories that are identical at the 
+time of creation but will undergo individual changes that one does not want
+to have such changes conflict with the different versions.
