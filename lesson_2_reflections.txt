@@ -23,3 +23,6 @@ How would branches help?
 Creating branches helps keep seperate repositories that are identical at the 
 time of creation but will undergo individual changes that one does not want
 to have such changes conflict with the different versions.
+
+How do the diagrams help you visualize the branch structure?
+They show where the branches were once identical and the commit routes
