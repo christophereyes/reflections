@@ -1,0 +1,11 @@
+What happens when you initialize a repository?
+Git will make a .git file and will be ready to track files we ask it to.
+Why do you need to do it?
+If one wants to use git for his/her version control than initializing a repo
+is the first step.
+
+How is the staging area different from the working directory and the repository?
+The staging area is what is going to be the next commit made and does not have
+to have the same corresponding files as either the working directory or repo
+What value do you think it offers?
+The staging area helps one be able to make logical changes and keep organized.
