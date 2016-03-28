@@ -1,0 +1,29 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+The command diff, which is the one I used even as I am on a windows machine, is one I had not used
+and being able to see that output for myself on my own computer is helpful as I have been 
+getting myself familiar with version control but have not yet strengthened my level
+of familiarity to the degree that I wish to achieve.
+
+How could having easy access to the entire history of a file make you a more efficient
+programmer in the long term?
+There are probably several reasons why this is true, what comes to mind is that when 
+one works on software there might be bugs that are created that were not present in older version
+and being able to go back to a working version would be helpful.
+
+What do you thnk are the pros and cons of manually choosing when to create a commit like you do in Git, vs having versions automatically saved, like Google Docs does?
+Manually choosing gives the user better and more control over which versions get saved vs an atomatic save which may not have significant changes made.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file seperately?
+Files assocated to commits are more likely to deal with each other or have dependencies which if changed might affect other aspects of one project where in Google Docs the same is not true.
+
+How can you use the commands git log an git diff to view the history of files?
+Git log will give you the commit details made on the repository you are in and
+git diff will allow you to view the changes made on the argument ids
+
+How might using version control make you more confident to make changes that could break something?
+Simply by knowing that you can freeely make changes with potential bugs ane be able to revert to a 
+previous version easily.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+I want to use Git to be more organized and more intentional with my workflow.
+
