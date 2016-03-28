@@ -9,3 +9,9 @@ The staging area is what is going to be the next commit made and does not have
 to have the same corresponding files as either the working directory or repo
 What value do you think it offers?
 The staging area helps one be able to make logical changes and keep organized.
+
+How can you use the staging are to make sure you have one commit per logical
+change?
+By combining the 'git status' command we can use the staging area as a guide
+or reference to know what changes have been made as well as what are the 
+differences between current working directory files vs what is being staged.
