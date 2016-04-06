@@ -26,3 +26,6 @@ to have such changes conflict with the different versions.
 
 How do the diagrams help you visualize the branch structure?
 They show where the branches were once identical and the commit routes
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+The result is that you merge two paths into one and commits made by both branches. It is represented in the diagram in manner that reflects that through which ever branch becomes the head we are still able to reach commits through either path.
