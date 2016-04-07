@@ -28,4 +28,12 @@ How do the diagrams help you visualize the branch structure?
 They show where the branches were once identical and the commit routes
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
-The result is that you merge two paths into one and commits made by both branches. It is represented in the diagram in manner that reflects that through which ever branch becomes the head we are still able to reach commits through either path.
+The result is that you merge two paths into one and commits made by both branches. 
+It is represented in the diagram in manner that reflects that through which ever branch 
+becomes the head we are still able to reach commits through either path.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+The pros to Git's automatic merging is that it is sopshiticated enough to recognize
+when there are discrepancies between files in the different branches, the con
+would be with the potential redundancy in the warnings one would get if they seem 
+as obvious problems to deal with.
