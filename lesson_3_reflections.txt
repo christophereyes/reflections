@@ -18,3 +18,7 @@ on is at least the most recent version.
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 Through email would be one way and it would only be easier in the sense that
 email is somewhat universal, but it would be significantly more difficult for version control.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+Before merging changes I have been working on to the master branch, so that someone could review my changes.
+The only benefit in making changes directly to the master is potentially in saving time.
