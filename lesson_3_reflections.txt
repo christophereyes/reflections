@@ -14,3 +14,7 @@ to the same computer.
 What is the benefit of having a copy of the last known state of the remote stored locally?
 Then in case one needs to work offline, one can be sure that the code being worked
 on is at least the most recent version.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Through email would be one way and it would only be easier in the sense that
+email is somewhat universal, but it would be significantly more difficult for version control.
